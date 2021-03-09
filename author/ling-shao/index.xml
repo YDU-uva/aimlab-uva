@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ling Shao | AIM Lab</title>
+    <link>/author/ling-shao/</link>
+      <atom:link href="/author/ling-shao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ling Shao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright>
+    <image>
+      <url>/author/ling-shao/avatar_hua5b176b086fb7fb4575a8fb2345d6455_8446_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Ling Shao</title>
+      <link>/author/ling-shao/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marcel Worring | AIM Lab</title>
+    <link>/author/marcel-worring/</link>
+      <atom:link href="/author/marcel-worring/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marcel Worring</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright>
+    <image>
+      <url>/author/marcel-worring/avatar_hue58a67684972a692fd3361f2e681bc2d_96099_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Marcel Worring</title>
+      <link>/author/marcel-worring/</link>
+    </image>
+    
+  </channel>
+</rss>

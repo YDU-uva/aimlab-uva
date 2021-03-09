@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest News | AIM Lab</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest News</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Latest News</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>One paper accepted at ICLR 2021.</title>
+      <link>/post/2021-iclr-yingjun/</link>
+      <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2021-iclr-yingjun/</guid>
+      <description>&lt;p&gt;Congratulations on Yingjun Du&amp;rsquo;s paper &amp;ldquo;MetaNorm: Learning to Normalize Few-Shot Batches Across Domains&amp;rdquo; being accepted by ICLR 2021.&lt;/p&gt;
+&lt;p&gt;Batch normalization plays a crucial role when training deep neural networks. However, batch statistics become unstable with small batch sizes and are unreliable in the presence of distribution shifts. We propose MetaNorm, a simple yet effective meta-learning normalization. It tackles the aforementioned issues in a uniﬁed way by leveraging the meta-learning setting and learns to infer adaptive statistics for batch normalization. MetaNorm is generic, ﬂexible and model-agnostic, making it a simple plug-and-play module that is seamlessly embedded into existing meta-learning approaches. It can be efﬁciently implemented by lightweight hypernetworks with low computational cost. We verify its effectiveness by extensive evaluation on representative tasks suffering from the small batch and domain shift problems: few-shot learning and domain generalization. We further introduce an even more challenging setting: few-shot domain generalization. Results demonstrate that MetaNorm consistently achieves better, or at least competitive, accuracy compared to existing batch normalization methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at NeurIPS 2020.</title>
+      <link>/post/2020-nips-xiantong/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-nips-xiantong/</guid>
+      <description>&lt;p&gt;Congratulations on Xiantong Zhen&amp;rsquo;s paper &amp;ldquo;Learning to Learn Variational Semantic Memory&amp;rdquo; being published by NeurIPS 2020.&lt;/p&gt;
+&lt;p&gt;In this paper, we introduce variational semantic memory into meta-learning to acquire long-term knowledge for few-shot learning. The variational semantic memory accrues and stores semantic information for the probabilistic inference of class prototypes in a hierarchical Bayesian framework. The semantic memory is grown from scratch and gradually consolidated by absorbing information from tasks it experiences. By doing so, it is able to accumulate long-term, general knowledge that enables it to learn new concepts of objects. We formulate memory recall as the variational inference of a latent memory variable from addressed contents, which offers a principled way to adapt the knowledge to individual tasks. Our variational semantic memory, as a new long-term memory module, confers principled recall and update mechanisms that enable semantic information to be efﬁciently accrued and adapted for few-shot learning. Experiments demonstrate that the probabilistic modelling of prototypes achieves a more informative representation of object classes compared to deterministic vectors. The consistent new state-of-the-art performance on four benchmarks shows the beneﬁt of variational semantic memory in boosting few-shot recognition.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ECCV 2020.</title>
+      <link>/post/2020-eccv-yingjun/</link>
+      <pubDate>Tue, 15 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-eccv-yingjun/</guid>
+      <description>&lt;p&gt;Congratulations on Yingjun Du&amp;rsquo;s paper &amp;ldquo;Learning to Learn with Variational Information Bottleneck for Domain Generalization&amp;rdquo; being accepted by ICML 2020.&lt;/p&gt;
+&lt;p&gt;Domain generalization models learn to generalize to previously unseen domains, but suffer from prediction uncertainty and domain shift. In this paper, we address both problems. We introduce a probabilistic meta-learning model for domain generalization, in which classifier parameters shared across domains are modeled as distributions. This enables better handling of prediction uncertainty on unseen domains. To deal with domain shift, we learn domain-invariant representations by the proposed principle of meta variational information bottleneck, we call MetaVIB. MetaVIB is derived from novel variational bounds of mutual information, by leveraging the meta-learning setting of domain generalization. Through episodic training, MetaVIB learns to gradually narrow domain gaps to establish domain-invariant representations, while simultaneously maximizing prediction accuracy. We conduct experiments on three benchmarks for cross-domain visual recognition. Comprehensive ablation studies validate the benefits of MetaVIB for domain generalization. The comparison results demonstrate our method outperforms previous approaches consistently.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICML 2020.</title>
+      <link>/post/2020-icml-xiantong/</link>
+      <pubDate>Sat, 09 May 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-icml-xiantong/</guid>
+      <description>&lt;p&gt;Congratulations on Xiantong Zhen&amp;rsquo;s paper &amp;ldquo;Learning to Learn Kernels with Variational Random Features&amp;rdquo; being accepted by ICML 2020.&lt;/p&gt;
+&lt;p&gt;We introduce kernels with random Fourier features in the meta-learning framework for few-shot learning. We propose meta variational random features (MetaVRF) to learn adaptive kernels for the base-learner, which is developed in a latent variable model by treating the random feature basis as the latent variable. We formulate the optimization of MetaVRF as a variational inference problem by deriving an evidence lower bound under the meta-learning framework. To incorporate shared knowledge from related tasks, we propose a context inference of the posterior, which is established by an LSTM architecture. The LSTMbased inference network effectively integrates the context information of previous tasks with taskspecific information, generating informative and adaptive features. The learned MetaVRF is able to produce kernels of high representational power with a relatively low spectral sampling rate and also enables fast adaptation to new tasks. Experimental results on a variety of few-shot regression and classification tasks demonstrate that MetaVRF can deliver much better, or at least competitive, performance compared to existing metalearning alternatives.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
