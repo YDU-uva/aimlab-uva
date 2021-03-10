@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xudong Zhang | AIM Lab</title>
-    <link>/author/xudong-zhang/</link>
-      <atom:link href="/author/xudong-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivi.fnwi.uva.nl/aimlab/author/xudong-zhang/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/aimlab/author/xudong-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Xudong Zhang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Xudong Zhang</title>
-      <link>/author/xudong-zhang/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/author/xudong-zhang/</link>
     </image>
     
     <item>
       <title>Few-Shot Semantic Segmentation with Democratic Attention Networks</title>
-      <link>/publication/conference-eccv2020-xiantong/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-eccv2020-xiantong/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-eccv2020-xiantong/</guid>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-eccv2020-xiantong/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

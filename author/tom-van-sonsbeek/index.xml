@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tom van Sonsbeek | AIM Lab</title>
-    <link>/author/tom-van-sonsbeek/</link>
-      <atom:link href="/author/tom-van-sonsbeek/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivi.fnwi.uva.nl/aimlab/author/tom-van-sonsbeek/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/aimlab/author/tom-van-sonsbeek/index.xml" rel="self" type="application/rss+xml" />
     <description>Tom van Sonsbeek</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Tom van Sonsbeek</title>
-      <link>/author/tom-van-sonsbeek/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/author/tom-van-sonsbeek/</link>
     </image>
     
     <item>
       <title>Variational Knowledge Distillation for Disease Classification in Chest X-Rays</title>
-      <link>/publication/conference-ipmi2021-tom/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-ipmi2021-tom/</link>
       <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/conference-ipmi2021-tom/</guid>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-ipmi2021-tom/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

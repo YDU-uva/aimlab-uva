@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zehao Xiao | AIM Lab</title>
-    <link>/author/zehao-xiao/</link>
-      <atom:link href="/author/zehao-xiao/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ivi.fnwi.uva.nl/aimlab/author/zehao-xiao/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/aimlab/author/zehao-xiao/index.xml" rel="self" type="application/rss+xml" />
     <description>Zehao Xiao</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Zehao Xiao</title>
-      <link>/author/zehao-xiao/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/author/zehao-xiao/</link>
     </image>
     
     <item>
       <title>Variational Invariant Learning for Bayesian Domain Generalization</title>
-      <link>/publication/preprint-icml2021-zehao/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/preprint-icml2021-zehao/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint-icml2021-zehao/</guid>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/preprint-icml2021-zehao/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
