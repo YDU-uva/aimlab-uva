@@ -28,6 +28,84 @@
     </item>
     
     <item>
+      <title>Learning to Learn Variational Semantic Memory</title>
+      <link>/publication/conference-nips2020-xiantong/</link>
+      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-nips2020-xiantong/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at CVPR 2021.</title>
+      <link>/post/2021-cvpr-yunhua/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-cvpr-yunhua/</guid>
+      <description>&lt;p&gt;Congratulations on Yunhua Zhang&amp;rsquo;s paper &amp;ldquo;Repetitive Activity Counting by Sight and Sound&amp;rdquo; being accepted by CVPR 2021.&lt;/p&gt;
+&lt;p&gt;This paper strives for repetitive activity counting in videos. Different from existing works, which all analyze the visual video content only, we incorporate for the first time the corresponding sound into the repetition counting process. This benefits accuracy in challenging vision conditions such as occlusion, dramatic camera view changes, low resolution, etc. We propose a model that starts with analyzing the sight and sound streams separately. Then an audiovisual temporal stride decision module and a reliability estimation module are introduced to exploit cross-modal temporal interaction. For learning and evaluation, an existing dataset is repurposed and reorganized to allow for repetition counting with sight and sound. We also introduce a variant of this dataset for repetition counting under challenging vision conditions. Experiments demonstrate the benefit of sound, as well as the other introduced modules, for repetition counting. Our sight-only model already outperforms the state-of-the-art by itself, when we add sound, results improve notably, especially under harsh vision conditions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Repetitive Activity Counting by Sight and Sound</title>
+      <link>/publication/conference-cvpr2021-yunhua/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-cvpr2021-yunhua/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at IPMI 2021.</title>
+      <link>/post/2021-ipmi-tom/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-ipmi-tom/</guid>
+      <description>&lt;p&gt;Congratulations on Tom van Sonsbeek&amp;rsquo;s paper &amp;ldquo;Variational Knowledge Distillation for Disease Classification in Chest X-Rays&amp;rdquo; being accepted by IPMI 2021.&lt;/p&gt;
+&lt;p&gt;Disease classification relying solely on imaging data attracts great interest in medical image analysis. Current models could be fur- ther improved, however, by also employing Electronic Health Records (EHRs), which contain rich information on patients and findings from clinicians. It is challenging to incorporate this information into disease classification due to the high reliance on clinician input in EHRs, lim- iting the possibility for automated diagnosis. In this paper, we propose variational knowledge distillation (VKD), which is a new probabilistic inference framework for disease classification based on X-rays that lever- ages knowledge from EHRs. Specifically, we introduce a conditional la- tent variable model, where we infer the latent representation of the X-ray image with the variational posterior conditioning on the associated EHR text. By doing so, the model acquires the ability to extract the visual features relevant to the disease during learning and can therefore perform more accurate classification for unseen patients at inference based solely on their X-ray scans. We demonstrate the effectiveness of our method on three public benchmark datasets with paired X-ray images and EHRs. The results show that the proposed variational knowledge distillation can consistently improve the performance of medical image classification and significantly surpasses current methods.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variational Knowledge Distillation for Disease Classification in Chest X-Rays</title>
+      <link>/publication/conference-ipmi2021-tom/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-ipmi2021-tom/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Invariant Learning for Bayesian Domain Generalization</title>
+      <link>/publication/preprint-icml2021-zehao/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-icml2021-zehao/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Multi-Task Learning</title>
+      <link>/publication/preprint-icml2021-jiayi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-icml2021-jiayi/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>One paper accepted at ICLR 2021.</title>
       <link>/post/2021-iclr-yingjun/</link>
       <pubDate>Wed, 02 Dec 2020 00:00:00 +0000</pubDate>
@@ -55,10 +133,52 @@
     </item>
     
     <item>
+      <title>Few-Shot Semantic Segmentation with Democratic Attention Networks</title>
+      <link>/publication/conference-eccv2020-xiantong/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-eccv2020-xiantong/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Learning to Learn with Variational Information Bottleneck for Domain Generalization</title>
       <link>/publication/conference-eccv2020-yingjun/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/conference-eccv2020-yingjun/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>MetaNorm: Learning to Normalize Few-Shot Batches Across Domains</title>
+      <link>/publication/conference-iclr2021-yingjun/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-iclr2021-yingjun/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Few-Shot Ensemble Learning for Video Classification with SlowFast Memory Networks</title>
+      <link>/publication/conference-acm2020-xiantong/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-acm2020-xiantong/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -75,6 +195,48 @@
       <guid>/post/2020-icml-xiantong/</guid>
       <description>&lt;p&gt;Congratulations on Xiantong Zhen&amp;rsquo;s paper &amp;ldquo;Learning to Learn Kernels with Variational Random Features&amp;rdquo; being accepted by ICML 2020.&lt;/p&gt;
 &lt;p&gt;We introduce kernels with random Fourier features in the meta-learning framework for few-shot learning. We propose meta variational random features (MetaVRF) to learn adaptive kernels for the base-learner, which is developed in a latent variable model by treating the random feature basis as the latent variable. We formulate the optimization of MetaVRF as a variational inference problem by deriving an evidence lower bound under the meta-learning framework. To incorporate shared knowledge from related tasks, we propose a context inference of the posterior, which is established by an LSTM architecture. The LSTMbased inference network effectively integrates the context information of previous tasks with taskspecific information, generating informative and adaptive features. The learned MetaVRF is able to produce kernels of high representational power with a relatively low spectral sampling rate and also enables fast adaptation to new tasks. Experimental results on a variety of few-shot regression and classification tasks demonstrate that MetaVRF can deliver much better, or at least competitive, performance compared to existing metalearning alternatives.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pixel-level Non-local Image Smoothing with Objective Evaluation</title>
+      <link>/publication/journal-acm2020-xiantong/</link>
+      <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-acm2020-xiantong/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Conditional Variational Image Deraining</title>
+      <link>/publication/journal-tip2020-yingjun/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/journal-tip2020-yingjun/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning to Learn Kernels with Variational Random Features</title>
+      <link>/publication/conference-icml2020-xiantong/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/conference-icml2020-xiantong/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
     </item>
     
     <item>

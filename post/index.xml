@@ -5,12 +5,30 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Latest News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Wed, 02 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Tue, 02 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Latest News</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted at CVPR 2021.</title>
+      <link>/post/2021-cvpr-yunhua/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-cvpr-yunhua/</guid>
+      <description>&lt;p&gt;Congratulations on Yunhua Zhang&amp;rsquo;s paper &amp;ldquo;Repetitive Activity Counting by Sight and Sound&amp;rdquo; being accepted by CVPR 2021.&lt;/p&gt;
+&lt;p&gt;This paper strives for repetitive activity counting in videos. Different from existing works, which all analyze the visual video content only, we incorporate for the first time the corresponding sound into the repetition counting process. This benefits accuracy in challenging vision conditions such as occlusion, dramatic camera view changes, low resolution, etc. We propose a model that starts with analyzing the sight and sound streams separately. Then an audiovisual temporal stride decision module and a reliability estimation module are introduced to exploit cross-modal temporal interaction. For learning and evaluation, an existing dataset is repurposed and reorganized to allow for repetition counting with sight and sound. We also introduce a variant of this dataset for repetition counting under challenging vision conditions. Experiments demonstrate the benefit of sound, as well as the other introduced modules, for repetition counting. Our sight-only model already outperforms the state-of-the-art by itself, when we add sound, results improve notably, especially under harsh vision conditions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at IPMI 2021.</title>
+      <link>/post/2021-ipmi-tom/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>/post/2021-ipmi-tom/</guid>
+      <description>&lt;p&gt;Congratulations on Tom van Sonsbeek&amp;rsquo;s paper &amp;ldquo;Variational Knowledge Distillation for Disease Classification in Chest X-Rays&amp;rdquo; being accepted by IPMI 2021.&lt;/p&gt;
+&lt;p&gt;Disease classification relying solely on imaging data attracts great interest in medical image analysis. Current models could be fur- ther improved, however, by also employing Electronic Health Records (EHRs), which contain rich information on patients and findings from clinicians. It is challenging to incorporate this information into disease classification due to the high reliance on clinician input in EHRs, lim- iting the possibility for automated diagnosis. In this paper, we propose variational knowledge distillation (VKD), which is a new probabilistic inference framework for disease classification based on X-rays that lever- ages knowledge from EHRs. Specifically, we introduce a conditional la- tent variable model, where we infer the latent representation of the X-ray image with the variational posterior conditioning on the associated EHR text. By doing so, the model acquires the ability to extract the visual features relevant to the disease during learning and can therefore perform more accurate classification for unseen patients at inference based solely on their X-ray scans. We demonstrate the effectiveness of our method on three public benchmark datasets with paired X-ray images and EHRs. The results show that the proposed variational knowledge distillation can consistently improve the performance of medical image classification and significantly surpasses current methods.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>One paper accepted at ICLR 2021.</title>

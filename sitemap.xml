@@ -11,8 +11,83 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
+    <loc>/publication-type/1/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/authors/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/cees-g.m.-snoek/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/huan-xiong/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/conference-nips2020-xiantong/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/ling-shao/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication_types/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tag/source-themes/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/xiantong-zhen/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yingjun-du/</loc>
+    <lastmod>2021-08-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/post/</loc>
-    <lastmod>2020-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021-cvpr-yunhua/</loc>
+    <lastmod>2021-03-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/conference-cvpr2021-yunhua/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yunhua-zhang/</loc>
+    <lastmod>2021-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/2021-ipmi-tom/</loc>
+    <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/marcel-worring/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/tom-van-sonsbeek/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/conference-ipmi2021-tom/</loc>
+    <lastmod>2021-02-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/3/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jiayi-shen/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/jiayin-shen/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/preprint-icml2021-zehao/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/preprint-icml2021-jiayi/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/zehao-xiao/</loc>
+    <lastmod>2021-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2021-iclr-yingjun/</loc>
     <lastmod>2020-12-02T00:00:00+00:00</lastmod>
@@ -23,17 +98,23 @@
     <loc>/post/2020-eccv-yingjun/</loc>
     <lastmod>2020-09-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/1/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/conference-eccv2020-xiantong/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/haochen-wang/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/cees-g.m.-snoek/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/xianbin-cao/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/huan-xiong/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/xudong-zhang/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yandan-yang/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yutao-hu/</loc>
+    <lastmod>2020-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/jun-xu/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
@@ -41,32 +122,59 @@
     <loc>/publication/conference-eccv2020-yingjun/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/ling-shao/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/</loc>
+    <loc>/publication/conference-iclr2021-yingjun/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/qiang-qiu/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/di-huang/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/publication/conference-acm2020-xiantong/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/xiantong-zhen/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/jie-qin/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/author/yingjun-du/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
+    <loc>/author/jiebo-luo/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mengshi-qi/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yi-yang/</loc>
+    <lastmod>2020-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/post/2020-icml-xiantong/</loc>
     <lastmod>2020-05-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/mingming-cheng/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/journal-acm2020-xiantong/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yingkun-hou/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/zhiang-liu/</loc>
+    <lastmod>2020-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/journal-tip2020-yingjun/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/haoliang-sun/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/conference-icml2020-xiantong/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/yilong-yin/</loc>
+    <lastmod>2020-03-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/contact/</loc>
   </url><url>

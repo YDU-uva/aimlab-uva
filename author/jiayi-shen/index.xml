@@ -5,12 +5,21 @@
     <link>/author/jiayi-shen/</link>
       <atom:link href="/author/jiayi-shen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiayi Shen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/author/jiayi-shen/avatar_hu5a740874a97349587eda6ec26906d3aa_8050_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Jiayi Shen</title>
       <link>/author/jiayi-shen/</link>
     </image>
+    
+    <item>
+      <title>Variational Multi-Task Learning</title>
+      <link>/publication/preprint-icml2021-jiayi/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/preprint-icml2021-jiayi/</guid>
+      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>
