@@ -17,21 +17,21 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computater Vison
-
+- Video Understanding
+- Computer vision
+- Multimedia
+- Machine learning
+- Artificial intelligence
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: University of Amsterdam
+    year: 2011
+  - course: MEng in Business Information Systems
+    institution:  University of Amsterdam
+    year: 2000
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -68,6 +68,6 @@ user_groups:
 - Directors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Cees G.M. Snoek is a full professor in computer science at the University of Amsterdam, where he heads the Video and Image Sense Lab. He is also a director of three public-private AI research labs: QUVA Lab with Qualcomm, Atlas Lab with TomTom and AIM Lab with the Inception Institute of Artificial Intelligence. At University spin-off Kepler Vision Technologies he acts as Chief Scientific Officer. Professor Snoek is also the director of the master program in Artificial Intelligence and co-founder of the Innovation Center for Artificial Intelligence.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Professor Snoek is the lead researcher of the award-winning MediaMill Semantic Video Search Engine, which was the most consistent top performer in the yearly NIST TRECVID evaluations for over a decade. He was general chair of ACM Multimedia 2016 in Amsterdam, program chair for ICMR 2017, and initiator of the VideOlympics 2007-2009. He is a lecturer of post-doctoral courses and tutorials given at international conferences and European summer schools. He is a senior member of IEEE and ACM. Cees is recipient of an NWO Veni award, a Fulbright Junior Scholarship, an NWO Vidi award, and the Netherlands Prize for ICT Research. All for research excellence. Several of his Ph.D. students and Post-docs have won awards, including the IEEE Transactions on Multimedia Prize Paper Award the SIGMM Best Ph.D. Thesis Award, the Best Paper Award of ACM Multimedia, an NWO Veni award and the Best Paper Award of ACM Multimedia Retrieval. Five of his former mentees serve as assistant and associate professors.
