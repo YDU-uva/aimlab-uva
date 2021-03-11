@@ -6,7 +6,7 @@ title: Tom van Sonsbeek
 superuser: False
 
 # Role/position
-role: PhD Students
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:

@@ -89,14 +89,14 @@ phone = "+31-(0)20-525-7528"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Science Park 904", city = "Amsterdam", region = "North Holland", postcode = "1098XH", country = "the Netherlands", country_code = "NL"}
+address = {street = "Science Park", city = "Amsterdam", region = "North Holland", postcode = "1098XH", country = "the Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "52.354913", longitude = "4.955154"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+directions = "Enter building and take the stairs to reception on Floor 3"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
