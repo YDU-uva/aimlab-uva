@@ -28,10 +28,19 @@
     </item>
     
     <item>
-      <title>Learning to Learn Variational Semantic Memory</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-nips2020-xiantong/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-nips2020-xiantong/</guid>
+      <title>One paper accepted at CVPR 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr-yunhua/</link>
+      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr-yunhua/</guid>
+      <description>&lt;p&gt;Congratulations on Yunhua Zhang&amp;rsquo;s paper &amp;ldquo;Repetitive Activity Counting by Sight and Sound&amp;rdquo; being accepted by CVPR 2021.&lt;/p&gt;
+&lt;p&gt;This paper strives for repetitive activity counting in videos. Different from existing works, which all analyze the visual video content only, we incorporate for the first time the corresponding sound into the repetition counting process. This benefits accuracy in challenging vision conditions such as occlusion, dramatic camera view changes, low resolution, etc. We propose a model that starts with analyzing the sight and sound streams separately. Then an audiovisual temporal stride decision module and a reliability estimation module are introduced to exploit cross-modal temporal interaction. For learning and evaluation, an existing dataset is repurposed and reorganized to allow for repetition counting with sight and sound. We also introduce a variant of this dataset for repetition counting under challenging vision conditions. Experiments demonstrate the benefit of sound, as well as the other introduced modules, for repetition counting. Our sight-only model already outperforms the state-of-the-art by itself, when we add sound, results improve notably, especially under harsh vision conditions.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>MetaNorm: Learning to Normalize Few-Shot Batches Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2021-yingjun/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2021-yingjun/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -39,15 +48,6 @@
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>One paper accepted at CVPR 2021.</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr-yunhua/</link>
-      <pubDate>Tue, 02 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr-yunhua/</guid>
-      <description>&lt;p&gt;Congratulations on Yunhua Zhang&amp;rsquo;s paper &amp;ldquo;Repetitive Activity Counting by Sight and Sound&amp;rdquo; being accepted by CVPR 2021.&lt;/p&gt;
-&lt;p&gt;This paper strives for repetitive activity counting in videos. Different from existing works, which all analyze the visual video content only, we incorporate for the first time the corresponding sound into the repetition counting process. This benefits accuracy in challenging vision conditions such as occlusion, dramatic camera view changes, low resolution, etc. We propose a model that starts with analyzing the sight and sound streams separately. Then an audiovisual temporal stride decision module and a reliability estimation module are introduced to exploit cross-modal temporal interaction. For learning and evaluation, an existing dataset is repurposed and reorganized to allow for repetition counting with sight and sound. We also introduce a variant of this dataset for repetition counting under challenging vision conditions. Experiments demonstrate the benefit of sound, as well as the other introduced modules, for repetition counting. Our sight-only model already outperforms the state-of-the-art by itself, when we add sound, results improve notably, especially under harsh vision conditions.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -84,24 +84,6 @@
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Variational Invariant Learning for Bayesian Domain Generalization</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/publication/preprint-icml2021-zehao/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/preprint-icml2021-zehao/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Variational Multi-Task Learning</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/publication/preprint-icml2021-jiayi/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/preprint-icml2021-jiayi/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -161,10 +143,10 @@
     </item>
     
     <item>
-      <title>MetaNorm: Learning to Normalize Few-Shot Batches Across Domains</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2021-yingjun/</link>
-      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2021-yingjun/</guid>
+      <title>Few-Shot Ensemble Learning for Video Classification with SlowFast Memory Networks</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acm2020-xiantong/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acm2020-xiantong/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -175,10 +157,10 @@
     </item>
     
     <item>
-      <title>Few-Shot Ensemble Learning for Video Classification with SlowFast Memory Networks</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acm2020-xiantong/</link>
+      <title>Learning to Learn Variational Semantic Memory</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-nips2020-xiantong/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acm2020-xiantong/</guid>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-nips2020-xiantong/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
