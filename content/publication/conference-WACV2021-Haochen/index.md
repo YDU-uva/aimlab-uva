@@ -1,10 +1,12 @@
 ---
-title: "MetaNorm: Learning to Normalize Few-Shot Batches Across Domains"
+title: "Variational Prototype Inference for Few-Shot Semantic Segmentation"
 authors:
-- Yingjun Du
-- Xiantong Zhen 
-- Ling Shao
+- Haochen Wang
+- Yandan Yang
+- Xianbin Cao
+- Xiantong Zhen
 - Cees G.M. Snoek
+- Ling Shao
 
 - 
 date: "2021-03-01T00:00:00Z"
@@ -20,13 +22,13 @@ publishDate: "2021-03-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ICLR 2021*
-publication_short: In *ICLR*
+publication: In *WACV 2021*
+publication_short: In *WACV*
 
-abstract: Batch normalization plays a crucial role when training deep neural networks.
+abstract: In this paper, we propose variational prototype inference to address few-shot semantic segmentation in a probabilistic framework. A probabilistic latent variable model infers the distribution of the prototype that is treated as the latent variable. We formulate the optimization as a variational inference problem, which is established with an amortized inference network based on an auto-encoder architecture. The probabilistic modeling of the prototype enhances its generalization ability to handle the inherent uncertainty caused by limited data and the huge intra-class variations of objects. Moreover, it offers a principled way to incorporate the prototype extracted from support images into the prediction of the segmentation maps for query images. We conduct extensive experimental evaluations on three benchmark datasets. Ablation studies show the effectiveness of variational prototype inference for few-shot semantic segmentation by probabilistic modeling. On all three benchmarks, our proposal achieves high segmentation accuracy and surpasses previous methods by considerable margins.
 
 # Summary. An optional shortened abstract.
-summary: We propose MetaNorm, a simple yet effective meta-learning normalization approach that learns adaptive statistics for few-shot classification and domain generalization.
+summary: This paper propose variational prototype inference to address few-shot semantic segmentation in a probabilistic framework.
 
 tags:
 - Source Themes
@@ -34,8 +36,8 @@ featured: true
 
 links:
 - name: Custom Link
-  url: https://arxiv.org/abs/2007.07645
-url_pdf: https://arxiv.org/pdf/2007.07645.pdf
+  url: https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Variational_Prototype_Inference_for_Few-Shot_Semantic_Segmentation_WACV_2021_paper.pdf
+url_pdf: https://openaccess.thecvf.com/content/WACV2021/papers/Wang_Variational_Prototype_Inference_for_Few-Shot_Semantic_Segmentation_WACV_2021_paper.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'

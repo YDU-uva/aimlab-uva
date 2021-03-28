@@ -19,11 +19,11 @@ publishDate: "2020-08-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *ECCV 2020*
-publication_short: In *ECCV*
+publication: In *ACM MM 2020*
+publication_short: In *ACM MM*
 
 abstract: In the era of big data, few-shot learning has recently received much attention in multimedia analysis and computer vision due to its appealing ability of learning from scarce labeled data. However, it has been largely underdeveloped in the video domain, which is even more challenging due to the huge spatial-temporal variability of video data. In this paper, we address few-shot video classification by learning an ensemble of SlowFast networks augmented with memory units. Specifically, we introduce a family of few-shot learners based on SlowFast networks which are used to extract informative features at multiple rates, and we incorporate a memory unit into each network to enable encoding and retrieving crucial information instantly. Furthermore, we propose a choice controller network to leverage the diversity of few-shot learners by learning to adaptively assign a confidence score to each SlowFast memory network, leading to a strong classifier for enhanced prediction. Experimental results on two widely-adopted video datasets demonstrate the effectiveness of the proposed method, as well as its superior performance over the state-of-the-art approaches.
 
