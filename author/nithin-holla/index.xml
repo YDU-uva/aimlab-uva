@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nithin Holla | AIM Lab</title>
+    <link>https://ivi.fnwi.uva.nl/aimlab/author/nithin-holla/</link>
+      <atom:link href="https://ivi.fnwi.uva.nl/aimlab/author/nithin-holla/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nithin Holla</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Sat, 01 May 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>Nithin Holla</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/author/nithin-holla/</link>
+    </image>
+    
+    <item>
+      <title>Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acl2021-yingjun/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acl2021-yingjun/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

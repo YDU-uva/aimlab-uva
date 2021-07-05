@@ -5,7 +5,7 @@
     <link>https://ivi.fnwi.uva.nl/aimlab/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/aimlab/index.xml" rel="self" type="application/rss+xml" />
     <description>AIM Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Fri, 02 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>AIM Lab</title>
@@ -13,17 +13,130 @@
     </image>
     
     <item>
+      <title>Adding ears to a computer counting the bounces on a trampoline.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr2-yunhua/</link>
+      <pubDate>Fri, 02 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr2-yunhua/</guid>
+      <description>&lt;p&gt;Recently, an article from researchers from the Informatics Institute of the University of Amsterdam has been published at the IEEE Conference on Computer Vision and Pattern Recognition; the leading peer-reviewed publication venue in the field of artificial intelligence. The researchers introduced a method for counting repetitions, which are relevant when analyzing human activity (sports), animal behavior (a bee’s waggle dance) or natural phenomena (leaves in the wind) by integrating for the first time the audio modality in a visual counting system based on neural networks.&lt;/p&gt;
+&lt;p&gt;Yunhua Zhang and Cees Snoek of the Video &amp;amp; Image Sense Lab (VIS), in collaboration with Ling Shao from the Inception Institute of Artificial Intelligence (IIAI), developed a method for estimating how many times a certain repetitive phenomenon, such as bouncing on a trampoline, slicing an onion, or playing ping pong, happens in a video stream. Their methodology is applicable to any scenario in which repetitive motion patterns exist. By using both sight and sound, as well as their cross-modal interaction, counting predictions are shown to be much more robust than a sight-only model. The results highlight the benefits brought by the use of sound as an addition to sight, especially in harsh vision conditions, for example during low illumination, or when camera viewpoint changes, and even occlusions, where the combination of both sight and sound always outperforms the use of sight only.&lt;/p&gt;
+&lt;p&gt;The detailed information could be found in &lt;a href=&#34;https://www.uva.nl/en/shared-content/subsites/informatics-institute/en/news/2021/06/adding-ears-to-a-computer-counting.html&#34;&gt;https://www.uva.nl/en/shared-content/subsites/informatics-institute/en/news/2021/06/adding-ears-to-a-computer-counting.html&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Example Event</title>
       <link>https://ivi.fnwi.uva.nl/aimlab/event/example/</link>
-      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <pubDate>Fri, 11 Jun 2021 17:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/aimlab/event/example/</guid>
-      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+      <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICML 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-icml-mohanmad/</link>
+      <pubDate>Mon, 10 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-icml-mohanmad/</guid>
+      <description>&lt;p&gt;Congratulations on Mohammad Derakhshani&amp;rsquo;s paper &amp;ldquo;Kernel Continual Learning&amp;rdquo; being accepted by ICML 2021.&lt;/p&gt;
+&lt;p&gt;This paper introduces kernel continual learning, a simple but effective variant of continual learning that leverages the non-parametric nature of kernel methods to tackle catastrophic forgetting. We deploy an episodic memory unit that stores a subset of samples for each task to learn task-speciﬁc classiﬁers based on kernel ridge regression. This does not require memory replay and systematically avoids task interference in the classiﬁers. We further introduce variational random features to learn a data-driven kernel for each task. To do so, we formulate kernel continual learning as a variational inference problem, where a random Fourier basis is incorporated as the latent variable. The variational posterior distribution over the random Fourier basis is inferred from the coreset of each task. In this way, we are able to generate more informative kernels speciﬁc to each task, and, more importantly, the coreset size can be reduced to achieve more compact memory, resulting in more efﬁcient continual learning based on episodic memory. Extensive evaluation on four benchmarks demonstrates the effectiveness and promise of kernels for continual learning.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICML 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-icml-zehao/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-icml-zehao/</guid>
+      <description>&lt;p&gt;Congratulations on Zehao Xiao&amp;rsquo;s paper &amp;ldquo;A Bit More Bayesian: Domain-Invariant Learning with Uncertainty&amp;rdquo; being accepted by ICML 2021.&lt;/p&gt;
+&lt;p&gt;The ICML 2021 paper “A Bit More Bayesian: Domain-Invariant Learning with Uncertaintyce” by Zehao Xiao, Jiayi Shen, Xiantong Zhen, Ling Shao and Cees Snoek is now available. Domain generalization is challenging due to the domain shift and the uncertainty caused by the inaccessibility of target domain data. In this paper, we address both challenges with a probabilistic framework based on variational Bayesian inference, by incorporating uncertainty into neural network weights. We couple domain invariance in a probabilistic formula with the variational Bayesian inference. This enables us to explore domain-invariant learning in a principled way. Specifically, we derive domain-invariant representations and classifiers, which are jointly established in a two-layer Bayesian neural network. We empirically demonstrate the effectiveness of our proposal on four widely used cross-domain visual recognition benchmarks. Ablation studies validate the synergistic benefits of our Bayesian treatment when jointly learning domain-invariant representations and classifiers for domain generalization. Further, our method consistently delivers state-of-the-art mean accuracy on all benchmarks.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ACL 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-acl-yingjun/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-acl-yingjun/</guid>
+      <description>&lt;p&gt;Congratulations on Yingjun Du&amp;rsquo;s paper &amp;ldquo;Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation&amp;rdquo; being accepted by ACL 2021.&lt;/p&gt;
+&lt;p&gt;A critical challenge faced by supervised word sense disambiguation (WSD) is the lack of large annotated datasets with sufﬁcient coverage of words in their diversity of senses. This inspired recent research on few-shot WSD using meta-learning. While such work has successfully applied meta-learning to learn new word senses from very few examples, its performance still lags behind its fully-supervised counterpart. Aiming to further close this gap, we propose a model of semantic memory for WSD in a meta-learning setting. Semantic memory encapsulates prior experiences seen throughout the lifetime of the model, which aids better generalization in limited data settings. Our model is based on hierarchical variational inference and incorporates an adaptive memory update rule via a hypernetwork. We show our model advances the state of the art in few-shot WSD, supports effective learning in extremely data scarce (e.g. one-shot) scenarios and produces meaning prototypes that capture similar senses of distinct words.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at MICCAI 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-miccai-ivona/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-miccai-ivona/</guid>
+      <description>&lt;p&gt;Congratulations on Ivona Najdenkoska&amp;rsquo;s paper &amp;ldquo;Variational Topic Inference for Chest X-Ray Report Generation&amp;rdquo; being accepted by MICCAI 2021.&lt;/p&gt;
+&lt;p&gt;Automating report generation for medical imaging promises to alleviate workload and assist diagnosis in clinical practice. Recent work has shown that deep learning models can successfully caption natural images. However, learning from medical data is challenging due to the diversity and uncertainty inherent in the reports written by diﬀerent radiologists with discrepant expertise and experience. To tackle these challenges, we propose variational topic inference for automatic report generation. Speciﬁcally, we introduce a set of topics as latent variables to guide sentence generation by aligning image and language modalities in a latent space. The topics are inferred in a conditional variational inference framework, with each topic governing the generation of a sentence in the report. Further, we adopt a visual attention module that enables the model to attend to diﬀerent local regions in the image to generate more informative descriptions. We conduct extensive experiments on two benchmarks, namely Indiana U. Chest X-rays and MIMIC-CXR. The results demonstrate that our proposed variational topic inference model can generate reports which are not mere copies of reports used in training, while still achieving comparable performance to state-of-the-art methods in terms of standard language generation criteria.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper won the MICCAI Student Travel Awards at MICCAI 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-travel-award-ivona/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-travel-award-ivona/</guid>
+      <description>&lt;p&gt;Congratulations on Ivona Najdenkoska&amp;rsquo;s paper &amp;ldquo;Variational Topic Inference for Chest X-Ray Report Generation&amp;rdquo; won the MICCAI Student Travel Awards at MICCAI 2021.&lt;/p&gt;
+&lt;p&gt;The MICCAI Student Travel Awards scheme serves two main functions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;To reward the best (such as highest scoring) first author students and to subsidise their attendance to the present their work at the annual MICCAI conference.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;To assist in building the MICCAI community by selecting early career participants from countries of lower-income countries from where fewer papers are received and the authors are typically not well funded to attend international meetings.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The detailed information could be found in the &lt;a href=&#34;http://miccai.org/about-miccai/awards/student-travel-awards/&#34;&gt;http://miccai.org/about-miccai/awards/student-travel-awards/&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acl2021-yingjun/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-acl2021-yingjun/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Topic Inference for Chest X-Ray Report Generation</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-miccai2021-ivona/</link>
+      <pubDate>Sat, 01 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-miccai2021-ivona/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Bit More Bayesian: Domain-Invariant Learning with Uncertainty</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-icml2021-zehao/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-icml2021-zehao/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kernel Continual Learning</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-icml2021-mohammad/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-icml2021-mohammad/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -55,6 +168,20 @@
       <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-cvpr2021-yunhua/</link>
       <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-cvpr2021-yunhua/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Variational Prototype Inference for Few-Shot Semantic Segmentation</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-wacv2021-haochen/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-wacv2021-haochen/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
