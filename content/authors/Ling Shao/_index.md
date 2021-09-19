@@ -40,16 +40,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:test@example.org'
+  link: 'mailto:ling.shao@ieee.org'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=z84rLjoAAAAJ&hl=zh-CN
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://ling-shao.github.io/ 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -68,4 +68,8 @@ user_groups:
 - Directors
 ---
 
-Professor Ling Shao is Chair in Computer Vision and Head of the Computer Vision and Artificial Intelligence Group with the Department of Computer Science and Digital Technologies at Northumbria University, Newcastle upon Tyne and an Advanced Visiting Fellow with the Department of Electronic and Electrical Engineering at the University of Sheffield. He received the B.Eng. degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC), the M.Sc. degree in Medical Image Analysis and the Ph.D. (D.Phil.) degree in Computer Vision at the Robotics Research Group from the University of Oxford. Previously, he was a Senior Lecturer (2009-2014) with the Department of Electronic and Electrical Engineering at the University of Sheffieldand a Senior Scientist (2005-2009) with Philips Research, The Netherlands. His research interests include Computer Vision, Image/Video Processing, Pattern Recognition and Machine Learning. He has authored/co-authored over 200 papers in refereed journals/conferences such as IEEE TPAMI, TIP, TNNLS, IJCV, ICCV, CVPR, IJCAI and ACM MM, and holds over 10 EU/US patents.
+Ling Shao is the Founding CEO and Chief Scientist of the Inception Institute of Artificial Intelligence (IIAI), Abu Dhabi, UAE. He was the initiator of the world's first AI university - Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), for which he served as the Founding Provost and Executive Vice President (2019-2021). He received his B.Eng. degree in Electronic and Information Engineering from the University of Science and Technology of China (USTC), his M.Sc. degree in Medical Image Analysis and his Ph.D. (D.Phil.) degree in Computer Vision from the University of Oxford. Previously, He was Chair Professor (2016-2018) in Computer Vision and Machine Learning with the University of East Anglia, Norwich, UK,  Chair Professor (2014-2016) in Computer Vision and Machine Intelligence with Northumbria University, Newcastle upon Tyne, UK, a Senior Lecturer (2009-2014) with the University of Sheffield, UK and a Senior Scientist (2005-2009) with Philips Research, The Netherlands. His research interests include Computer Vision, Deep Learning, Medical Imaging, and Vision and Language. He has authored/co-authored over 400 papers in top conferences/journals such as ICCV, CVPR, ECCV, NeurIPS, ICML, TPAMI and IJCV and over 20 EU/US patents.
+
+ 
+
+Shao served as an editorial board member of IEEE Transactions on Image Processing, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Circuits and Systems for Video Technology, IEEE Transactions on Cybernetics, and several other journals. He has edited four books and several special issues for journals such as IJCV and Pattern Recognition. He was the General Chair for BMVC 2018, was an Area Chair or Program Committee member for many conferences, including ICCV, CVPR, ECCV and ACM MM, and will be the General Chair for IJCB 2022. He was selected as a 'Highly Cited Researcher' by the Web of Science (Thomson Reuters) in 2018/2019/2020. He is a Fellow of the IEEE, a Fellow of the IAPR, a Fellow of the British Computer Society, a Fellow of the IET, and a Life Member of the ACM. He was elected as a Member of the Mohammed bin Rashid Academy of Scientists (the National Academy of the UAE) in 2021.

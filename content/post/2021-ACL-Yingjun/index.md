@@ -1,10 +1,26 @@
 ---
-title: One paper accepted at ACL 2021.
-date: 2021-05-02
+title: Artificial Intelligence for Medical Imaging Lab.
+date: 2021-09-02
 ---
 
-Congratulations on Yingjun Du's paper "Meta-Learning with Variational Semantic Memory for Word Sense Disambiguation" being accepted by ACL 2021.
+The AIM Lab opened on 31 January 2020. An update by Assistant Professor Xiantong Zhen at the AIM Lab. AIM Lab is a collaborative initiative of the Inception Institute of Artificial Intelligence from the United Arab Emirates and the University of Amsterdam.
 
 <!--more-->
 
-A critical challenge faced by supervised word sense disambiguation (WSD) is the lack of large annotated datasets with sufﬁcient coverage of words in their diversity of senses. This inspired recent research on few-shot WSD using meta-learning. While such work has successfully applied meta-learning to learn new word senses from very few examples, its performance still lags behind its fully-supervised counterpart. Aiming to further close this gap, we propose a model of semantic memory for WSD in a meta-learning setting. Semantic memory encapsulates prior experiences seen throughout the lifetime of the model, which aids better generalization in limited data settings. Our model is based on hierarchical variational inference and incorporates an adaptive memory update rule via a hypernetwork. We show our model advances the state of the art in few-shot WSD, supports effective learning in extremely data scarce (e.g. one-shot) scenarios and produces meaning prototypes that capture similar senses of distinct words.
+
+The research lab is focused on medical image analysis by machine learning, covering active scientific topics of broad interest, including both methods and applications. These topics range from low-level vision and data pre-processing tasks to high-level image/video analysis tasks. From a technical perspective, researchers at the AIM Lab will be working on fundamental and relatively general deep-learning models and algorithms, which will be applied to specific diseases, including but not limited to Alzheimer’s disease, cancer and cardiovascular diseases.
+In particular, the AIM Lab will be focusing on the following seven projects in its first five years:
+
+• Learning with limited data and its applications to medical image analysis
+
+• Multi-task learning for medical image analysis and data mining
+
+• Continual learning with its applications to medical image classification
+
+• Out-of-distribution generalization for medical image analysis
+
+• Jointly learning from medical images and health records
+
+• Automated report generation from radiology images.
+
+The detailed news could be found in: https://ivi.uva.nl/content/news/2021/07/artificial-intelligence-for-medical-imaging-lab.html
