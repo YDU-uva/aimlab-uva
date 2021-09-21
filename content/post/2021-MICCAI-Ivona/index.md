@@ -1,6 +1,6 @@
 ---
 title: One paper accepted at MICCAI 2021.
-date: 2021-05-02
+date: 2021-05-03
 ---
 
 Congratulations on Ivona Najdenkoska's paper "Variational Topic Inference for Chest X-Ray Report Generation" being accepted by MICCAI 2021.

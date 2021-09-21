@@ -19,19 +19,21 @@ interests:
 - Computer Vision
 - Deep Learning
 - Machine Learning
-- Medical ImagingVision
-- Language
+- Medical Imaging
+- Vision and Language
 
 
 education:
   courses:
-  - course: PhD in Computer Vision at the Robotics 
+  - course: Ph.D.
     institution: University of Oxford.
-    year: 2008
-
-  - course: BSc in Electronic and Information Engineering
+    
+  - course: M.Sc.
+    institution: (by research), University of Oxford
+    
+  - course: B.Eng.
     institution: University of Science and Technology of China
-    year: 2003
+  # year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
