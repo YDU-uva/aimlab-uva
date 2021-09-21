@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr2-yunhua/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/</loc>
-    <lastmod>2021-07-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-acl-yingjun/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/post/</loc>
+    <lastmod>2021-09-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-cvpr2-yunhua/</loc>
     <lastmod>2021-07-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/event/example/</loc>
@@ -23,11 +26,8 @@
     <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-icml-zehao/</loc>
     <lastmod>2021-05-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-acl-yingjun/</loc>
-    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-miccai-ivona/</loc>
-    <lastmod>2021-05-02T00:00:00+00:00</lastmod>
+    <lastmod>2021-05-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/post/2021-travel-award-ivona/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
@@ -135,7 +135,7 @@
     <lastmod>2020-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/post/2020-eccv-yingjun/</loc>
-    <lastmod>2020-09-15T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://ivi.fnwi.uva.nl/aimlab/publication/conference-eccv2020-xiantong/</loc>
     <lastmod>2020-09-02T00:00:00+00:00</lastmod>
