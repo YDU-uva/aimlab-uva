@@ -1,6 +1,6 @@
 ---
 title: One paper accepted at ECCV 2020.
-date: 2020-09-17
+date: 2020-09-18
 ---
 
 Congratulations on Yingjun Du's paper "Learning to Learn with Variational Information Bottleneck for Domain Generalization" being accepted by ICML 2020.
