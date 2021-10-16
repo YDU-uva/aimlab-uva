@@ -5,12 +5,35 @@
     <link>https://ivi.fnwi.uva.nl/aimlab/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/aimlab/index.xml" rel="self" type="application/rss+xml" />
     <description>AIM Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Thu, 02 Sep 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>AIM Lab</title>
       <link>https://ivi.fnwi.uva.nl/aimlab/</link>
     </image>
+    
+    <item>
+      <title>One paper accepted at NeurIPS 2021.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2021-nips-jiayi/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2021-nips-jiayi/</guid>
+      <description>&lt;p&gt;Congratulations on Jiayi Shen&amp;rsquo;s paper &amp;ldquo;Variational Multi-Task Learning with Gumbel-Softmax Priors&amp;rdquo; being accepted by NeurIPS 2021.&lt;/p&gt;
+&lt;p&gt;Multi-task learning aims to explore task relatedness to improve individual tasks, which is of particular signiﬁcance in the challenging scenario that only limited data is available for each task. To tackle this challenge, we propose variational multi-task learning (VMTL), a general probabilistic inference framework in which we cast multi-task learning as a variational Bayesian inference problem. In this way, task relatedness can be explored in a uniﬁed manner by specifying priors. To leverage the knowledge shared among tasks, we design the prior of a task to be a learnable mixture of the variational posteriors of other tasks, which is learned by the Gumbel-Softmax technique. In contrast to previous methods, our VMTL can exploit task relatedness for both representations and classiﬁers in a single uniﬁed framework by jointly inferring their posteriors. This enables individual tasks to fully leverage inductive biases provided by related tasks, therefore improving the overall performance of all tasks. Experimental results demonstrate that the proposed VMTL is able to effectively tackle a variety of challenging multi-task learning problems with limited training data for both classiﬁcation and regression. Our method consistently surpasses previous methods, including strong Bayesian approaches, and achieves state-of-the-art performance on ﬁve benchmark datasets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Variational Multi-Task Learning with Gumbel-Softmax Priors</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-nips2021-jiayi/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-nips2021-jiayi/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Artificial Intelligence for Medical Imaging Lab.</title>
@@ -41,9 +64,17 @@ In particular, the AIM Lab will be focusing on the following seven projects in i
     
     <item>
       <title>Example Event</title>
-      <link>https://ivi.fnwi.uva.nl/aimlab/event/example/</link>
+      <link>https://ivi.fnwi.uva.nl/aimlab/event/first-dinner/</link>
       <pubDate>Fri, 11 Jun 2021 17:00:00 +0000</pubDate>
-      <guid>https://ivi.fnwi.uva.nl/aimlab/event/example/</guid>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/event/first-dinner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/event/first-offline-aim-lab-gathering/</link>
+      <pubDate>Fri, 11 Jun 2021 17:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/event/first-offline-aim-lab-gathering/</guid>
       <description></description>
     </item>
     
@@ -243,7 +274,7 @@ In particular, the AIM Lab will be focusing on the following seven projects in i
     <item>
       <title>One paper accepted at ECCV 2020.</title>
       <link>https://ivi.fnwi.uva.nl/aimlab/post/2020-eccv-yingjun/</link>
-      <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/aimlab/post/2020-eccv-yingjun/</guid>
       <description>&lt;p&gt;Congratulations on Yingjun Du&amp;rsquo;s paper &amp;ldquo;Learning to Learn with Variational Information Bottleneck for Domain Generalization&amp;rdquo; being accepted by ICML 2020.&lt;/p&gt;
 &lt;p&gt;Domain generalization models learn to generalize to previously unseen domains, but suffer from prediction uncertainty and domain shift. In this paper, we address both problems. We introduce a probabilistic meta-learning model for domain generalization, in which classifier parameters shared across domains are modeled as distributions. This enables better handling of prediction uncertainty on unseen domains. To deal with domain shift, we learn domain-invariant representations by the proposed principle of meta variational information bottleneck, we call MetaVIB. MetaVIB is derived from novel variational bounds of mutual information, by leveraging the meta-learning setting of domain generalization. Through episodic training, MetaVIB learns to gradually narrow domain gaps to establish domain-invariant representations, while simultaneously maximizing prediction accuracy. We conduct experiments on three benchmarks for cross-domain visual recognition. Comprehensive ablation studies validate the benefits of MetaVIB for domain generalization. The comparison results demonstrate our method outperforms previous approaches consistently.&lt;/p&gt;</description>
