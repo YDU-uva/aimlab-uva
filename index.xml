@@ -5,12 +5,40 @@
     <link>https://ivi.fnwi.uva.nl/aimlab/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/aimlab/index.xml" rel="self" type="application/rss+xml" />
     <description>AIM Lab</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Mon, 24 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>AIM Lab</title>
       <link>https://ivi.fnwi.uva.nl/aimlab/</link>
     </image>
+    
+    <item>
+      <title>Hierarchical Variational Memory for Few-shot Learning Across Domains</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2022-yingjun/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2022-yingjun/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Learning to Generalize across Domains on Single Test Samples </title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2022-zehao/</link>
+      <pubDate>Mon, 24 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/publication/conference-iclr2022-zehao/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>One paper accepted at NeurIPS 2021.</title>
@@ -401,6 +429,24 @@ In particular, the AIM Lab will be focusing on the following seven projects in i
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://ivi.fnwi.uva.nl/aimlab/people/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICLR 2022.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2022-iclr-yingjun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2022-iclr-yingjun/</guid>
+      <description>&lt;p&gt;Congratulations on Yingjun Du&amp;rsquo;s paper &amp;ldquo;Hierarchical Variational Memory for Few-shot Learning Across Domains&amp;rdquo; being accepted by ICLR 2022.&lt;/p&gt;
+&lt;p&gt;Neural memory enables fast adaptation to new tasks with just a few training samples. Existing memory models store features only from the single last layer, which does not generalize well in presence of a domain shift between training and test distributions. Rather than relying on a flat memory, we propose a hierarchical alternative that stores features at different semantic levels. We introduce a hierarchical prototype model, where each level of the prototype fetches corresponding information from the hierarchical memory. The model is endowed with the ability to flexibly rely on features at different semantic levels if the domain shift circumstances so demand. We meta-learn the model by a newly derived hierarchical variational inference framework, where hierarchical memory and prototypes are jointly optimized. To explore and exploit the importance of different semantic levels, we further propose to learn the weights associated with the prototype at each level in a data-driven way, which enables the model to adaptively choose the most generalizable features. We conduct thorough ablation studies to demonstrate the effectiveness of each component in our model. The new state-of-the-art performance on cross-domain and competitive performance on traditional few-shot classification further substantiates the benefit of hierarchical variational memory.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted at ICLR 2022.</title>
+      <link>https://ivi.fnwi.uva.nl/aimlab/post/2022-iclr-zehao/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ivi.fnwi.uva.nl/aimlab/post/2022-iclr-zehao/</guid>
+      <description>&lt;p&gt;Congratulations on Zehao Xiao&amp;rsquo;s paper &amp;ldquo;Learning to Generalize across Domains on Single Test Samples &amp;quot; being accepted by ICLR 2022.&lt;/p&gt;
+&lt;p&gt;We strive to learn a model from a set of source domains that generalizes well to unseen target domains. The main challenge in such a domain generalization scenario is the unavailability of any target domain data during training, resulting in the learned model not being explicitly adapted to the unseen target domains. We propose learning to generalize across domains on single test samples. We leverage a meta-learning paradigm to learn our model to acquire the ability of adaptation with single samples at training time so as to further adapt itself to each single test sample at test time. We formulate the adaptation to the single test sample as a variational Bayesian inference problem, which incorporates the test sample as a conditional into the generation of model parameters. The adaptation to each test sample requires only one feed-forward computation at test time without any fine-tuning or self-supervised training on additional data from the unseen domains. We conduct extensive ablation studies to demonstrate the effectiveness and advantages. Further, our model achieves at least comparable &amp;ndash; and often better &amp;ndash; performance than state-of-the-art methods on multiple benchmarks for domain generalization.&lt;/p&gt;</description>
     </item>
     
   </channel>

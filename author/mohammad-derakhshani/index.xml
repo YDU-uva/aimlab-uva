@@ -5,12 +5,16 @@
     <link>https://ivi.fnwi.uva.nl/aimlab/author/mohammad-derakhshani/</link>
       <atom:link href="https://ivi.fnwi.uva.nl/aimlab/author/mohammad-derakhshani/index.xml" rel="self" type="application/rss+xml" />
     <description>Mohammad Derakhshani</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright><lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© AIM Lab</copyright>
     <image>
-      <url>https://ivi.fnwi.uva.nl/aimlab/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://ivi.fnwi.uva.nl/aimlab/author/mohammad-derakhshani/avatar_hu98b38250984ba8b6eb7bfaf341495569_18145_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Mohammad Derakhshani</title>
       <link>https://ivi.fnwi.uva.nl/aimlab/author/mohammad-derakhshani/</link>
     </image>
+    
+  </channel>
+</rss>
+   </image>
     
     <item>
       <title>Kernel Continual Learning</title>
